@@ -84,13 +84,7 @@ analytics:
 author:
   name             : "Sam Tracy"
   avatar           : "/assets/images/author.jpg"
-  bio: 
-    work	   : "4th year PhD Candidate"
-    hobby1	   : "sampling techniques
-    hobby2         : ""optimization theory"
-    hobby3	   : "missingness"
-    hobby4	   : "clustering methods"
-    hobby5         : "dimensionality"
+  bio		   : "4th year PhD Candidate | Harvard Biostatistics: scRNA-seq, statistical methods and open source software"
   location         : "Boston, MA"
   email            : "stracy@g.harvard.edu"
   github           : "seasamgo"
