@@ -5,18 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "Seasamgo"
+title                    : "seasamgo"
 title_separator          : "-"
 name                     : "Sam Tracy"
 description              : "technical blog"
 url                      : https://seasamgo.github.io
 baseurl                  : /
 epository                : seasamgo/seasamgo.github.io
-teaser                   : "/assets/background.jpg"
+teaser                   : 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -84,11 +84,16 @@ analytics:
 author:
   name             : "Sam Tracy"
   avatar           : "/assets/images/author.jpg"
-  bio              : "Much of my life involves quantifying the uncertainty that surrounds absolute values I don't believe in"
+  bio: 
+    work	   : "4th year PhD Candidate"
+    hobby1	   : "sampling techniques
+    hobby2         : ""optimization theory"
+    hobby3	   : "missingness"
+    hobby4	   : "clustering methods"
+    hobby5         : "dimensionality"
   location         : "Boston, MA"
-  email            :
+  email            : "stracy@g.harvard.edu"
   github           : "seasamgo"
-  linkedin         : "seasamgo"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   twitter          : "seasamgo"
