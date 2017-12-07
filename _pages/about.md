@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 type: pages
-title: "about"
+title:
 layout: single
 excerpt:
 last_modified_at: 
