@@ -9,19 +9,14 @@ toc: false
 author_profile: true
 ---
 
-I'm a 4th year Ph.D. student in Biostatistics at Harvard University focusing on methods for failure time data and single-cell sequencing data. My advisor is Dr. Guo-Cheng Yuan. 
+A 4th year Ph.D. student in Biostatistics at Harvard University focusing on methods for failure time data and single-cell sequencing data. My advisor is Dr. Guo-Cheng Yuan. I'm involved in a number of projects concerning open-source development, reproducible research and diversity in STEM. 
 
-## Interests
+### interests
 - tumor evolution and heterogeneity
 - systems architecture
 - cyber security
 
-## Craft
+### craft
 - backpacking
+- woodworking
 - BJJ
-- understanding Beck
-
-## Advocacy
-- open-source development
-- reproducible research
-- diversity in STEM.
