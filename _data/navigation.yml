@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "about"
-    url: https://seasamgo.github.io/about/
+    url: /about/
   - title: "vitae"
     url: https://seasamgo.github.io/assets/files/cv.pdf
   # - title: "About"
