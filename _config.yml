@@ -8,14 +8,14 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-US"
 title                    : "seasamgo"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Sam Tracy"
 description              : "technical blog"
 url                      : https://seasamgo.github.io
 baseurl                  : /
-epository                : seasamgo/seasamgo.github.io
+repository                : seasamgo/seasamgo.github.io
 teaser                   : 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -53,14 +53,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : seasamgo
 facebook:
   username               :
   app_id                 :
@@ -77,14 +77,14 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
 
 
 # Site Author
 author:
   name             : "Sam Tracy"
   avatar           : "/assets/images/author.jpg"
-  bio		   : "4th year PhD Candidate | Harvard Biostatistics: scRNA-seq, statistical methods and open source software"
+  bio		   : "highly caffeinated biostatistician"
   location         : "Boston, MA"
   email            : "stracy@g.harvard.edu"
   github           : "seasamgo"
