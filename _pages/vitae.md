@@ -10,9 +10,9 @@ author_profile: true
 ---
 
 <div>
-  <object data="https://seasamgo.github.io/assets/files/cv.pdf" type="application/pdf" width="100%" height="50%">
+  <object data="https://seasamgo.github.io/assets/files/cv.pdf" type="application/pdf" width="100%" height="80%">
   </object>
 </div>
 
-No PDF plug-in - <a href="https://seasamgo.github.io/assets/files/cv.pdf">download here</a>.
+No PDF plug-in: <a href="https://seasamgo.github.io/assets/files/cv.pdf">click here</a>
 
