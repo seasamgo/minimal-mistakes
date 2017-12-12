@@ -6,7 +6,12 @@ layout: single
 excerpt:
 last_modified_at: 
 toc: false
-author_profile: false
+author_profile: true
 ---
 
-<embed src="https://seasamgo.github.io/assets/files/cv.pdf" width="500" height="375" type='application/pdf'>
+<div>
+  <object data="https://seasamgo.github.io/assets/files/cv.pdf" type='application/pdf' width=100% height=100%> 
+    <p>It appears you don't have a PDF plugin for this browser - <a href="resume.pdf">download here.</a></p>  
+  </object>
+</div>
+
