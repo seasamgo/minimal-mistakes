@@ -9,10 +9,6 @@ toc: false
 author_profile: true
 ---
 
-**Samuel Tracy**
-
----
-
 Ph.D. candidate in Biostatistics at Harvard University focusing on methods for failure time data and single-cell sequencing data. In particular: developing and adapting sampling techniques, optimization theory, adjustments for missingness, clustering methods, and dimensionality reduction. My advisor is Dr. Guo-Cheng Yuan. I am also an advocate for open-source development, reproducible research and diversity in STEM.
 
 
