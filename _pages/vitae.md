@@ -13,7 +13,7 @@ EDUCATION
 
 ---
 
-**Ph.D. Biostatistics**, Harvard University (2019)  
+**Ph.D. Biostatistics**, Harvard University (2019<sup>1</sup>)  
 **M.A. Biostatistics**, Harvard University (2016)  
 **B.S. Applied Mathematics**, *magna cum laude*, UC San Diego (2014)  
 
@@ -114,6 +114,9 @@ Tel: (617) 582-8532 Email: gcyuan@jimmy.harvard.edu
 Professor, Department of Mathematics, University of California, San Diego  
 Address: 9500 Gilman Drive #0112, La Jolla, CA 92093  
 Tel: (858) 534-6380 Email: rxu@ucsd.edu  
+
+
+<sub><sup>1</sup>anticipated</sub>
 
 
 [PDF](https://seasamgo.github.io/assets/files/cv.pdf)
