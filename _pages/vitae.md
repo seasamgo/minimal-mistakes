@@ -14,6 +14,6 @@ author_profile: true
   </object>
 </div>
 
-### No PDF plug-in 
+### no PDF plug-in 
 - [click here](https://seasamgo.github.io/assets/files/cv.pdf)
 
