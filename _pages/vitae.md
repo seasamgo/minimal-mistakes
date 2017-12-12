@@ -13,21 +13,21 @@ EDUCATION
 
 ---
 
-**Ph.D. Biostatistics**, Harvard University, 2019  
-**M.A. Biostatistics**, Harvard University, 2016  
-**B.S. Applied Mathematics**, *magna cum laude*, UC San Diego, 2014  
+**Ph.D. Biostatistics**, Harvard University (2019)  
+**M.A. Biostatistics**, Harvard University (2016)  
+**B.S. Applied Mathematics**, *magna cum laude*, UC San Diego (2014)  
 
 
 PROFESSIONAL EXPERIENCE
 
 ---
 
-**Research Consultant**,            09/2017 – present  
+**Research Consultant**            (September 2017 – present)  
 *Harvard University, Boston, MA*  
 Department of Biostatistics Consulting Center  
 
 
-**Student Intern**, 							  03/2013 – 06/2013  
+**Student Intern** 							  (March 2013 – June 2013)  
 *Clinical and Translational Research Institute, San Diego, CA*  
 Clinical data visualization and analysis under Dr. Ronghui Xu and James Proudfoot  
 
@@ -36,24 +36,24 @@ TEACHING EXPERIENCE
 
 ---
 
-**Teaching Assistant**,             01/2016 – present  
+**Teaching Assistant**             (January 2016 – present)  
 *T.H. Chan Harvard School of Public Health, Boston, MA*  
 BST 210 Applied Regression Analysis (Spring 2016, 2017)  
 BST 226 Applied Longitudinal Analysis (Spring 2018)  
 
 
-**Instructor and Administrator**,   01/2015 – 08/2017  
+**Instructor and Administrator**   (January 2015 – August 2017)  
 *StatStart, Boston, MA*  
 Student-run high school program in statistical computing for minorities in STEM  
 (Summer 2015, 2016, 2017)  
 
 
-**Teaching Assistant**,             09/2013 – 06/2014  
+**Teaching Assistant**             (September 2013 – June 2014)  
 *UC San Diego, San Diego, CA*  
-MATH 10ABC Calculus Series (Fall 2013, Winter 2014, Spring 2014)  
+MATH 10ABC Calculus Series: Fall 2013, Winter 2014, Spring 2014  
 
 
-**Academic Liaison**,                01/2013 – 03/2013  
+**Academic Liaison**                (January 2013 – March 2013)  
 *Fallbrook High School, Fallbrook, CA*   
 All-subjects tutor and liaison through the UC San Diego Educational Studies Department  
 
@@ -93,11 +93,11 @@ SELECTED INVOLVEMENT
 
 ---
 
-**Graduate Student Council**, *Department Representative*,	    09/2015 – 08/2017  
-**Roxbury Prep Tutoring**, *Co-director*,				              09/2016 – 05/2017  
-**Roxbury Prep Tutoring**, *Coordinator*,				              09/2015 – 05/2016  
-**Student Conduct Code Committee**, *Student Representative*,	01/2014 – 06/2014  
-**Global Water Brigades**, *Honduras Brigade Member*,		      01/2014 – 03/2014  
+**Graduate Student Council**, *Department Representative*	    September 2015 – August 2017  
+**Roxbury Prep Tutoring**, *Co-director*				              September 2016 – May 2017  
+**Roxbury Prep Tutoring**, *Coordinator*				              September 2015 – May 2016  
+**Student Conduct Code Committee**, *Student Representative*	January 2014 – June 2014  
+**Global Water Brigades**, *Honduras Brigade Member*		      January 2014 – March 2014  
 
 
 REFERENCES
