@@ -6,7 +6,7 @@ layout: single
 excerpt:
 last_modified_at: 
 toc: false
-author_profile: true
+author_profile: false
 ---
 
 <div>
