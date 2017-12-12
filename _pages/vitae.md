@@ -53,7 +53,7 @@ Student-run high school program in statistical computing for minorities in STEM
 MATH 10ABC Calculus Series: Fall 2013, Winter 2014, Spring 2014  
 
 
-**Academic Liaison**               (January 2013 – March 2013)  
+**Academic Liaison**               (Jan 2013 – Mar 2013)  
 *Fallbrook High School, Fallbrook, CA*   
 All-subjects tutor and liaison through the UC San Diego Educational Studies Department  
 
