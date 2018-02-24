@@ -13,9 +13,9 @@ EDUCATION
 
 ---
 
-**Ph.D. Biostatistics**, Harvard University (2019<sup>1</sup>)  
-**M.A. Biostatistics**, Harvard University (2016)  
-**B.S. Applied Mathematics**, *magna cum laude*, UC San Diego (2014)  
+**Ph.D. Biostatistics**, Harvard University, (2019<sup>1</sup>)  
+**M.A. Biostatistics**, Harvard University, (2016)  
+**B.S. Applied Mathematics**, *magna cum laude*, With Honors, UC San Diego (2014)
 
 
 PROFESSIONAL EXPERIENCE
@@ -23,13 +23,13 @@ PROFESSIONAL EXPERIENCE
 ---
 
 **Research Consultant**            (Sep 2017 – present)  
-*Harvard University, Boston, MA*  
-Department of Biostatistics Consulting Center  
+*Harvard T.H. Chan School of Public Health, Boston, MA*  
+Biostatistics Student Consulting Center  
 
 
 **Student Intern** 		   (Mar 2013 – Jun 2013)  
-*Clinical and Translational Research Institute, San Diego, CA*  
-Clinical data visualization and analysis under Dr. Ronghui Xu and James Proudfoot  
+*Clinical & Translational Research Institute, San Diego, CA*  
+Clinical data analysis under Dr. Ronghui Xu and James Proudfoot  
 
 
 TEACHING EXPERIENCE
@@ -37,41 +37,44 @@ TEACHING EXPERIENCE
 ---
 
 **Teaching Assistant**             (Jan 2016 – present)  
-*T.H. Chan Harvard School of Public Health, Boston, MA*  
-BST 210 Applied Regression Analysis (Spring 2016, 2017)  
-BST 226 Applied Longitudinal Analysis (Spring 2018)  
+*Harvard T.H. Chan School of Public Health, Boston, MA*  
+BST 210 Applied Regression Analysis  
+BST 226 Applied Longitudinal Analysis 
 
 
 **Instructor and Administrator**   (Jan 2015 – Aug 2017)  
-*StatStart, Boston, MA*  
-Student-run high school program in statistical computing for minorities in STEM  
-(Summer 2015, 2016, 2017)  
+*StatStart: a High School Summer Program in Biostatistics, Boston, MA*  
+Statistical computing with the programming language R
 
 
 **Teaching Assistant**             (Sep 2013 – Jun 2014)  
 *UC San Diego, San Diego, CA*  
-MATH 10ABC Calculus Series: Fall 2013, Winter 2014, Spring 2014  
+MATH 10ABC Calculus Series
 
 
 **Academic Liaison**               (Jan 2013 – Mar 2013)  
 *Fallbrook High School, Fallbrook, CA*   
-All-subjects tutor and liaison through the UC San Diego Educational Studies Department  
-
-
-PROJECTS
-
----
-
-Chen, T., Tracy, S., Uno, H. Minimal-area confidence bands for failure time data.  
-Tracy, S., Dries, R., Yuan, G.C. scRNA-seq dropout imputation via subsampling of genes.  
-Tracy, S., Yuan, G.C. Scoring lineage prediction with single-cell data.  
+Through the UC San Diego Educational Studies Department, San Diego, CA
 
 
 PUBLICATIONS
 
 ---
 
-Talbot, O., Ocampo, A., Tracy, S., Mosesso, K., Rahman, A., and Pagano, M. StatStart 2015. *ASA: The Statistics Teacher Network*, 87: 4-8, 2016.  
+Talbot, O., Ocampo, A., Tracy, S., Mosesso, K., Rahman, A., and Pagano, M. (2016). StatStart 2015. *ASA: The Statistics Teacher Network*, **87**: 4-8.
+
+
+PROJECTS
+
+---
+
+Chen, T., Tracy, S., Uno, H. OptBand: optimal confidence bands for functions to characterize time-to-event distributions.
+
+
+Tracy, S., Dries, R., Yuan, G.C. A nonparametric method to impute dropout in single-cell RNA-sequencing data.
+
+
+Tracy, S., Yuan, G.C. A selection method for cell trajectory models applied to single-cell RNA-sequencing data.
 
 
 SKILLS & INTERESTS
@@ -86,7 +89,7 @@ SOFTWARE
 
 ---
 
-Co-creator and maintainer of the R package optband (on CRAN and GitHub), a package for statistical confidence bands applied to failure time data and optimized by area.
+Co-creator and maintainer of the R package optband (on CRAN and GitHub), which contains methods for minimal-area simultaneous confidence bands applicable to failure-time data.
 
 
 SELECTED INVOLVEMENT
