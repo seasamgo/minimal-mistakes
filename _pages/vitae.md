@@ -68,13 +68,16 @@ PROJECTS
 
 ---
 
-Chen, T., Tracy, S., Uno, H. OptBand: optimal confidence bands for functions to characterize time-to-event distributions.
+Chen, T.\*, **Tracy, S.\***, Uno, H. OptBand: optimal confidence bands for functions to characterize time-to-event distributions.
 
 
 Tracy, S., Dries, R., Yuan, G.C. A nonparametric method to impute dropout in single-cell RNA-sequencing data.
 
 
 Tracy, S., Yuan, G.C. A selection method for cell trajectory models applied to single-cell RNA-sequencing data.
+
+
+<sub><sup>\*Co-first authorship<\sup><\sub>
 
 
 SELECTED PRESENTATIONS
