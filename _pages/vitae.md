@@ -77,7 +77,7 @@ Tracy, S., Dries, R., Yuan, G.C. A nonparametric method to impute dropout in sin
 Tracy, S., Yuan, G.C. A selection method for cell trajectory models applied to single-cell RNA-sequencing data.
 
 
-<sub><sup>\*Co-first authorship<\sup><\sub>
+<sub>\*Co-first authorship</sub>
 
 
 SELECTED PRESENTATIONS
