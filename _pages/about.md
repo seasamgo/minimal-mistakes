@@ -15,6 +15,7 @@ A 4th year Ph.D. student in Biostatistics at Harvard University focusing on meth
 - tumor evolution and heterogeneity
 - systems architecture
 - cyber security
+- all things space
 
 ### craft
 - backpacking
