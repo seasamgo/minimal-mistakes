@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "vitae"
     url: /vitae/ # https://seasamgo.github.io/assets/files/cv.pdf
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+   - title: "content"
+     url: /content/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
