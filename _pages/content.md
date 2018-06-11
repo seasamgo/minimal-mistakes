@@ -2,7 +2,7 @@
 permalink: /content/
 type: pages
 title:
-layout: single
+layout: archive
 excerpt:
 last_modified_at:
 toc: false

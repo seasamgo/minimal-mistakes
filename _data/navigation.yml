@@ -2,10 +2,10 @@
 main:
   - title: "about"
     url: /about/
-  - title: "vitae"
-    url: /vitae/ # https://seasamgo.github.io/assets/files/cv.pdf
   - title: "content"
     url: /content/
+  - title: "vitae"
+    url: /vitae/ # https://seasamgo.github.io/assets/files/cv.pdf
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
