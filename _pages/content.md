@@ -1,5 +1,5 @@
 ---
-permalink: /posts/
+permalink: /content/
 type: pages
 title:
 layout: single
