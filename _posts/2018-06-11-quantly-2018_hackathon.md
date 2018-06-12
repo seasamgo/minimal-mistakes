@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Quantly 2018 Astropreneurship Hackathon"
-excerpt: A biofeedback device that uses LiDAR and EEG to improve localization and orientation in microgravity environments
+excerpt: "...a biofeedback device that uses LiDAR and EEG to improve localization and orientation in microgravity..."
 date: 2018-06-11
 author_profile: true
 ---
