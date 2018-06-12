@@ -2,8 +2,11 @@
 permalink: /content/
 type: pages
 title:
-layout: archive
-excerpt:
+layout: collection
+entries_layout: grid
+show_excerpts: true
+sort_by: 
+sort_order: 
 last_modified_at:
 toc: false
 author_profile: true
