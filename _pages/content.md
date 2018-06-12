@@ -1,7 +1,7 @@
 ---
 title: 
 permalink: /content/
-layout: posts
+layout: archive
 author_profile: true
 ---
 
