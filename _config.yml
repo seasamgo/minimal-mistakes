@@ -17,7 +17,7 @@ url                      : https://seasamgo.github.io
 baseurl                  : /
 repository                : seasamgo/seasamgo.github.io
 teaser                   : 
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -52,8 +52,18 @@ reCaptcha:
   secret                 : "gmFUN3N2PaF9xyxmu4qNIxB12k/XcwKFdAdpsy69YHT3rT9akFQCo5hHA2ZcEIS0GJd93x+ionHGFJhLE2LjBkcn8ippKJguLcZUEhB8xkimnIOkDBvVMmJSl+qq/DoY+xfB+5E+DQbCIx0fNsg+vCaHbk53dFiPYTW6wPi9De0="
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search			 : true
 
+search                   : true #, false (default)
+search_full_content      : # true, false (default)
+search_provider          : lunr #(default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
 # SEO Related
 google_site_verification : 
 bing_site_verification   :
@@ -79,8 +89,8 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
-
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
 
 # Site Author
 author:
