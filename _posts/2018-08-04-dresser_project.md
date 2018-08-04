@@ -27,10 +27,10 @@ The first step was to remove the ugly paint job. I slathered the dresser in the 
 
 
 <figure class="third">
-	<a href="/assets/images/2018-08-04-dresser_project/paint_stripped.JPG"><img src="/assets/images/2018-08-04-dresser_project/paint_stripped.JPG"></a>
-	<a href="/assets/images/2018-08-04-dresser_project/sanded.JPG"><img src="/assets/images/2018-08-04-dresser_project/sanded.JPG"></a>
+	<a href="/assets/images/2018-08-04-dresser_project/paint_stripped.jpg"><img src="/assets/images/2018-08-04-dresser_project/paint_stripped.jpg"></a>
+	<a href="/assets/images/2018-08-04-dresser_project/sanded.jpg"><img src="/assets/images/2018-08-04-dresser_project/sanded.jpg"></a>
 	<a href="/assets/images/2018-08-04-dresser_project/stained.jpg"><img src="/assets/images/2018-08-04-dresser_project/stained.jpg"></a>
-	<figcaption>In progress photographs --- the paint stripped, flat surfaces sanded, and the final stained dresser.</figcaption>
+	<figcaption>In progress photographs: the paint stripped, flat surfaces sanded, and the final piece.</figcaption>
 </figure>
 
 
