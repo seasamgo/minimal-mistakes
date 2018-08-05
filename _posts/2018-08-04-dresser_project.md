@@ -53,5 +53,5 @@ The last few things to take care of were the rusty metal fixtures, squeaky woode
 Finally, I wiped the entire piece down with a clean cloth and some vinegar water. All told, this entire endeavor took several hours and could easily be completed in a weekend. The end result was especially satisfying for a free piece and I'm looking forward to similar projects in the future.
 
 
-**Note:** some of the tools and products mentioned here are [hazardous](https://www.osha.gov/Publications/woodworking_hazards/osha3157.html). A mask and glasses can protect the eyes and lungs from sawdust and other particles. Paint and varnish remover, furniture wax and naval jelly are all _extremely_ toxic and should be used in well-ventialted areas, according to their labels, and disposed of properly.
+**Note:** some of the tools and products mentioned here are [hazardous](https://www.osha.gov/Publications/woodworking_hazards/osha3157.html). A mask and glasses can protect the eyes and lungs from sawdust and other particles. Paint and varnish remover, furniture wax and naval jelly are all _extremely_ toxic and should be used in well-ventilated areas, according to their labels, and disposed of properly.
 
