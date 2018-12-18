@@ -38,11 +38,11 @@ TEACHING EXPERIENCE
 
 **Teaching Assistant**,             Jan 2016 – present  
 *Harvard T.H. Chan School of Public Health, Boston, MA*  
-BST 210 Applied Regression Analysis  
-BST 226 Applied Longitudinal Analysis  
+BST 210 Applied regression analysis  
+BST 226 Applied longitudinal analysis  
+ID 201 Core principles of biostatistics and epidemiology for public health practice
 
-
-**Instructor and Administrator**,   Jan 2015 – present  
+**Instructor and Administrator**,   Jan 2015 – Aug 2018  
 *StatStart: a High School Summer Program in Biostatistics, Boston, MA*  
 Statistical computing with the programming language R
 
@@ -71,10 +71,10 @@ PROJECTS
 Chen, T.\*, **Tracy, S.\***, Uno, H. OptBand: optimal confidence bands for functions to characterize time-to-event distributions.
 
 
-Tracy, S., Dries, R., Yuan, G.C. A nonparametric method to impute dropout in single-cell RNA-sequencing data.
+Tracy, S., Dries, R., Yuan, G.C. Recovery of single-cell under-detected expression.
 
 
-Tracy, S., Yuan, G.C. A selection method for cell trajectory models applied to single-cell RNA-sequencing data.
+Tracy, S., Yuan, G.C. Predicting the spatial patterns of gene expression in single-cell RNA-sequencing data.
 
 
 <sub>\*Co-first authorship</sub>
@@ -110,7 +110,7 @@ SELECTED INVOLVEMENT
 
 <sub><sup>1</sup>anticipated</sub>
 
-
+<!---
 [PDF](https://seasamgo.github.io/assets/files/cv.pdf)
-
+-->
 
