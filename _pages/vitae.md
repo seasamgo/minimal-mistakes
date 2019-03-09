@@ -13,48 +13,46 @@ EDUCATION
 
 ---
 
-**Ph.D. Biostatistics**, Harvard University, 2019<sup>1</sup>   
-**M.A. Biostatistics**, Harvard University, 2016  
-**B.S. Applied Mathematics**, *magna cum laude*, With Honors, UC San Diego, 2014 
+**Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2019<sup>1</sup>  
+*Dissertation topic*: Contributions to missing data methods in genomics and survival analysis 
+*Committee*: Dr. Guo-Cheng Yuan, Dr. Giovanni Parmigiani, Dr. Franziska Michor
+**M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2016  
+**B.S. Applied Mathematics**, *magna cum laude*, University of California San Diego, June 2014 
 
 
 PROFESSIONAL EXPERIENCE
 
 ---
 
-**Research Consultant**,            Sep 2017 – present  
-*Harvard T.H. Chan School of Public Health, Boston, MA*  
-Biostatistics Student Consulting Center  
+**Research Consultant**, September 2017 - present
+*Biostatistics Student Consulting Center, Harvard T.H. Chan School of Public Health, Boston, MA*
+Advised students and postdocs on their statistical analyses across a variety of research projects and questions, including: exposure misclassification, cluster correlated data, wound healing assays, and gene expression data  
 
+**Co-founder and Instructor**, January 2015 - September 2018
+*StatStart: a High School Summer Program in Biostatistics, Boston, MA*
+Developed, recruited for, and supervised a statistical computing and programming course  
 
-**Student Intern**, 		   Mar 2013 – Jun 2013  
-*Clinical & Translational Research Institute, San Diego, CA*  
-Clinical data analysis under Dr. Ronghui Xu and James Proudfoot  
+**Student Intern**, March 2013 - June 2013
+*Clinical & Translational Research Institute, San Diego, CA*
+Conducted a clinical data analysis examining the relationship between idiopathic low back pain and common backpack loads in children under the supervision of Dr. Ronghui Xu and James Proudfoot, M.S.
 
 
 TEACHING EXPERIENCE
 
 ---
 
-**Teaching Assistant**,             Jan 2016 – present  
+**Instructor**, February 2019 - present  
+*Summer Program in Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA Developed the curriculum for a 5-week summer research program in biostatistics and epidemiology  
+
+**Teaching Assistant*, January 2016 - December 2018  
 *Harvard T.H. Chan School of Public Health, Boston, MA*  
-BST 210 Applied regression analysis  
-BST 226 Applied longitudinal analysis  
-ID 201 Core principles of biostatistics and epidemiology for public health practice
+* BST 210 Applied Regression Analysis, lead TA  
+* BST 226 Applied Longitudinal Analysis, prepared additional in-class lectures and midterm study materials   
+* ID 201 Core Principles of Biostatistics and Epidemiology for Public Health Practice
 
-**Instructor and Administrator**,   Jan 2015 – Aug 2018  
-*StatStart: a High School Summer Program in Biostatistics, Boston, MA*  
-Statistical computing with the programming language R
-
-
-**Teaching Assistant**,             Sep 2013 – Jun 2014  
-*UC San Diego, San Diego, CA*  
-MATH 10ABC Calculus Series
-
-
-**Academic Liaison**,               Jan 2013 – Mar 2013  
-*Fallbrook High School, Fallbrook, CA*   
-Through the UC San Diego Educational Studies Department, San Diego, CA
+**Teaching Assistant**, September 2013 - June 2014   
+*University of California San Diego, San Diego, CA*   
+MATH 10ABC Calculus Series  
 
 
 PUBLICATIONS
@@ -68,14 +66,13 @@ PROJECTS
 
 ---
 
-Chen, T.\*, **Tracy, S.\***, Uno, H. OptBand: optimal confidence bands for functions to characterize time-to-event distributions.
+Chen, T.*, **Tracy, S.***, Uno, H. (Jan. 2019). OptBand: optimal confidence bands for functions to characterize time-to-event distributions. 
+ 
+**Tracy, S.**, Dries, R., Yuan, G. C. (Feb. 2019). RESCUE: imputing dropout events in single-cell RNA-sequencing data.  
 
+**Tracy, S.**, Yuan, G. C. Recovery of spatial gene expression information with single-cell RNA-seq and sequential fluorescence *in situ* hybridization data.  
 
-Tracy, S., Dries, R., Yuan, G.C. Recovery of single-cell under-detected expression.
-
-
-Tracy, S., Yuan, G.C. Predicting the spatial patterns of gene expression in single-cell RNA-sequencing data.
-
+Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F., Wu, J. C., Platz, E. A novel risk prediction score for emergency department patients with pericardial effusion.
 
 <sub>\*Co-first authorship</sub>
 
@@ -84,28 +81,36 @@ SELECTED PRESENTATIONS
 
 ---
 
-An iterative method for imputing dropout values in scRNA-seq data. Poster presentation at the *Dana-Faber Cancer Institute Department of Biostatistics and Computational Biology Retreat*, Simmons College, Boston, MA, January 18, 2018.
-
+Team Micro: a biofeedback device using LiDAR and EEG to improve localization and orientation in microgravity environments. 1st place project demo at the *Quantly 2018 Astropeneurship, Space Medicine and Dataverse Hackathon*, Harvard University, Boston, MA, June 9, 2018.
 
 OptBand: optimal confidence bands for functions to characterize time-to-event distributions. Contributed-paper presentation at the *ENAR Spring Meeting 2018*, Hyatt Regency, Atlanta, GA, March 28, 2018.
+
+An iterative method for imputing dropout values in scRNA-seq data. Poster presentation at the *Dana-Faber Cancer Institute Department of Biostatistics and Computational Biology Retreat*, Simmons College, Boston, MA, January 18, 2018.
 
 
 SOFTWARE
 
 ---
 
-Co-creator and maintainer of the R package *optband* (on CRAN and GitHub), which contains methods for minimal-area simultaneous confidence bands applicable to failure-time data.
+*Highly proficient*: R, MATLAB, Stata  
+*Some experience*: Python, SAS, C++  
+
+**R package** `optband`, CRAN and GitHub
+Co-creator and maintainer; minimal-area simultaneous confidence bands for time-to-event data  
+**R package* `rescue`, GitHub  
+Co-creator and maintainer; methods for imputing missing expression due to dropout in single-cell RNA-sequencing data  
 
 
 SELECTED INVOLVEMENT
 
 ---
 
-**Graduate Student Council**, *Department Representative*	, Sep 2015 – Aug 2017  
-**Roxbury Prep Tutoring**, *Co-director*			, Sep 2016 – May 2017  
-**Roxbury Prep Tutoring**, *Coordinator*			, Sep 2015 – May 2016  
-**Student Conduct Code Committee**, *Student Representative*	, Jan 2014 – Jun 2014  
-**Global Water Brigades**, *Honduras Brigade Member*		, Jan 2014 – Mar 2014  
+**Harvard Graduate Student Council**, *Department Representative*, September 2015 - August 2017 
+**Roxbury Prep Mission Hill Tutoring**, *Co-director*, September 2016 - May 2017
+**Roxbury Prep Mission Hill Tutoring**, *Coordinator*, September 2015 - May 2016
+**UC San Diego Student Conduct Code Committee**, *Student Representative*, January 2014 - June 2014 
+**UC San Diego Educational Studies Department**, *Academic Liason*, January 2013 - March 2013 
+**Global Water Brigades**, *Honduras Brigade Member*, January 2014 - March 2014
 
 
 <sub><sup>1</sup>anticipated</sub>
