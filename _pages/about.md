@@ -9,7 +9,7 @@ toc: false
 author_profile: true
 ---
 
-A 5th year Ph.D. candidate in Biostatistics at Harvard University focusing on methods for missing data. My advisor is Dr. Guo-Cheng Yuan. I'm involved in a number of projects concerning open-source development, reproducible research and diversity in STEM. 
+Ph.D. Candidate in Biostatistics at Harvard University focusing on methods for missing data under the supervision of Dr. Guo-Cheng Yuan. Advocate for open source software development, reproducible research and diversity in STEM.  
 
 ### interests
 - tumor evolution and heterogeneity

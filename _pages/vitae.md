@@ -31,7 +31,7 @@ Advised students and postdocs on their statistical analyses across a variety of 
 
 **Co-founder and Instructor**, January 2015 - September 2018  
 *StatStart: a High School Summer Program in Biostatistics, Boston, MA*  
-Developed, recruited for, and supervised a statistical computing and programming course  
+Developed, recruited for, and supervised a 5-week statistical computing and programming course  
 
 **Student Intern**, March 2013 - June 2013  
 *Clinical & Translational Research Institute, San Diego, CA*  
@@ -46,12 +46,10 @@ TEACHING EXPERIENCE
 *Summer Program in Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA*   
 Developed the curriculum for a 5-week summer research program in biostatistics and epidemiology  
 
-**Teaching Assistant*, January 2016 - December 2018  
+**Teaching Assistant**, January 2016 - December 2018  
 *Harvard T.H. Chan School of Public Health, Boston, MA*  
 * BST 210 Applied Regression Analysis
-  + Lead TA  
-* BST 226 Applied Longitudinal Analysis
-  + Prepared additional in-class lectures and midterm study materials   
+* BST 226 Applied Longitudinal Analysis   
 * ID 201 Core Principles of Biostatistics and Epidemiology for Public Health Practice  
 
 **Teaching Assistant**, September 2013 - June 2014   
@@ -70,7 +68,7 @@ PROJECTS
 
 ---
 
-Chen, T.&dagger, **Tracy, S.**&dagger, Uno, H. (Jan. 2019). OptBand: optimal confidence bands for functions to characterize time-to-event distributions. 
+Chen, T.&dagger;, **Tracy, S.**&dagger;, Uno, H. (Jan. 2019). OptBand: optimal confidence bands for functions to characterize time-to-event distributions. 
  
 **Tracy, S.**, Dries, R., Yuan, G. C. (Feb. 2019). RESCUE: imputing dropout events in single-cell RNA-sequencing data.  
 
@@ -78,7 +76,7 @@ Chen, T.&dagger, **Tracy, S.**&dagger, Uno, H. (Jan. 2019). OptBand: optimal con
 
 Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F., Wu, J. C., Platz, E. A novel risk prediction score for emergency department patients with pericardial effusion.
 
-<sub>&dagger Co-first authorship</sub>
+<sub>&dagger; Co-first authorship</sub>
 
 
 SELECTED PRESENTATIONS
