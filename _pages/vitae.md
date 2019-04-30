@@ -14,7 +14,7 @@ EDUCATION
 ---
 
 **Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2019 (anticipated)  
-*Dissertation topic*: Contributions to missing data methods in genomics and survival analysis  
+*Dissertation topic*: Contributions to missing data methods in single-cell genomics and survival analysis  
 *Committee*: Dr. Guo-Cheng Yuan, Dr. Giovanni Parmigiani, Dr. Franziska Michor  
 
 **M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2016  
@@ -97,11 +97,14 @@ SOFTWARE
 *Highly proficient*: R, MATLAB, Stata  
 *Some experience*: Python, SAS, C++  
 
-**R package** `optband`, CRAN and GitHub
+**R package** `optband`, CRAN and GitHub  
 Co-creator and maintainer; minimal-area simultaneous confidence bands for time-to-event data  
 
 **R package** `rescue`, GitHub  
 Co-creator and maintainer; methods for imputing missing expression due to dropout in single-cell RNA-sequencing data  
+
+**R package** `sera`, GitHub
+Co-creator and maintainer; methods to integrate seqFISH and scRNA-seq data for spatial inference
 
 
 SELECTED INVOLVEMENT
