@@ -104,7 +104,7 @@ Co-creator and maintainer; minimal-area simultaneous confidence bands for time-t
 Co-creator and maintainer; methods for imputing missing expression due to dropout in single-cell RNA-sequencing data  
 
 **R package** `sera`, GitHub  
-Co-creator and maintainer; methods to integrate seqFISH and scRNA-seq data for spatial inference
+Creator and maintainer; methods to integrate seqFISH and scRNA-seq data for spatial inference
 
 
 SELECTED INVOLVEMENT
