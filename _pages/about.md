@@ -9,11 +9,11 @@ toc: false
 author_profile: true
 ---
 
-Ph.D. Candidate in Biostatistics at Harvard University focusing on methods for missing data under the supervision of Dr. Guo-Cheng Yuan. Advocate for open source software development, reproducible research and diversity in STEM.  
+Advocate for open source software development, reproducible research and diversity in STEM.  
 
 ### interests
+- statistical methods for missing data
 - tumor evolution and heterogeneity
-- systems architecture
 - all things space
 
 ### pastimes

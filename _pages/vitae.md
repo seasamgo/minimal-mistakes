@@ -13,9 +13,9 @@ EDUCATION
 
 ---
 
-**Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2019 (anticipated)  
+**Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2019   
 *Dissertation topic*: Contributions to missing data methods in single-cell genomics and survival analysis  
-*Committee*: Dr. Guo-Cheng Yuan, Dr. Giovanni Parmigiani, Dr. Franziska Michor  
+*Committee*: Dr. Guo-Cheng Yuan, Dr. Franziska Michor, Dr. Giovanni Parmigiani  
 
 **M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2016  
 **B.S. Applied Mathematics**, *magna cum laude*, University of California San Diego, June 2014  
@@ -72,7 +72,8 @@ Chen, T.&dagger;, **Tracy, S.**&dagger;, Uno, H. (Jan. 2019). OptBand: optimal c
  
 **Tracy, S.**, Dries, R., Yuan, G. C. (Feb. 2019). RESCUE: imputing dropout events in single-cell RNA-sequencing data.  
 
-**Tracy, S.**, Yuan, G. C. Recovery of spatial gene expression information with single-cell RNA-seq and sequential fluorescence *in situ* hybridization data.  
+**Tracy, S.**, Yuan, G. C. SERA: inferring spatial patterns of gene expression through integrating single-cell RNA-seq
+and sequential fluorescence *in situ* hybridization data.  
 
 Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F., Wu, J. C., Platz, E. A novel risk prediction score for emergency department patients with pericardial effusion.
 
