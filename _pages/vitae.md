@@ -25,7 +25,7 @@ PROFESSIONAL EXPERIENCE
 
 ---
 
-**Research Consultant**, September 2017 - present  
+**Research Consultant**, September 2017 - May 2019   
 *Biostatistics Student Consulting Center, Harvard T.H. Chan School of Public Health, Boston, MA*  
 Advised students and postdocs on their statistical analyses across a variety of research projects and questions, including: exposure misclassification, cluster correlated data, wound healing assays, and gene expression data  
 
@@ -64,15 +64,15 @@ PUBLICATIONS
 Talbot, O., Ocampo, A., Tracy, S., Mosesso, K., Rahman, A., and Pagano, M. (2016). StatStart 2015. *ASA: The Statistics Teacher Network*, **87**: 4-8.
 
 
-PROJECTS
+IN PROGRESS
 
 ---
 
-Chen, T.&dagger;, **Tracy, S.**&dagger;, Uno, H. (Jan. 2019). OptBand: optimal confidence bands for functions to characterize time-to-event distributions. 
- 
-**Tracy, S.**, Dries, R., Yuan, G. C. (Feb. 2019). RESCUE: imputing dropout events in single-cell RNA-sequencing data.  
+**Tracy, S.**, Dries, R., Yuan, G. C. *Accepted*. RESCUE: imputing dropout events in single-cell RNA-sequencing data. 
 
-**Tracy, S.**, Yuan, G. C. SERA: inferring spatial patterns of gene expression through integrating single-cell RNA-seq
+Chen, T.&dagger;, **Tracy, S.**&dagger;, Uno, H. *In submission*. OptBand: optimal confidence bands for functions to characterize time-to-event distributions.
+ 
+**Tracy, S.**, Yuan, G. C. *In revision*. SERA: inferring spatial patterns of gene expression through integrating single-cell RNA-seq
 and sequential fluorescence *in situ* hybridization data.  
 
 Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F., Wu, J. C., Platz, E. A novel risk prediction score for emergency department patients with pericardial effusion.
