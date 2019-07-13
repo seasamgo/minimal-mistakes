@@ -61,21 +61,21 @@ PUBLICATIONS
 
 ---
 
-Talbot, O., Ocampo, A., Tracy, S., Mosesso, K., Rahman, A., and Pagano, M. (2016). StatStart 2015. *ASA: The Statistics Teacher Network*, **87**: 4-8.
+**Tracy, S.**, Dries, R., Yuan, G. C. (2019). RESCUE: imputing dropout events in single-cell RNA-sequencing data. *BMC Bioinformatics*, 20(388). doi: [10.1186/s12859-019-2977-0](https://doi.org/10.1186/s12859-019-2977-0).  
+
+Talbot, O., Ocampo, A., Tracy, S., Mosesso, K., Rahman, A., and Pagano, M. (2016). StatStart 2015. *ASA: The Statistics Teacher Network*, 87: 4-8.
 
 
 IN PROGRESS
 
 ---
 
-**Tracy, S.**, Dries, R., Yuan, G. C. *Accepted*. RESCUE: imputing dropout events in single-cell RNA-sequencing data. 
-
 Chen, T.&dagger;, **Tracy, S.**&dagger;, Uno, H. *In submission*. OptBand: optimal confidence bands for functions to characterize time-to-event distributions.
  
 **Tracy, S.**, Yuan, G. C. *In revision*. SERA: inferring spatial patterns of gene expression through integrating single-cell RNA-seq
 and sequential fluorescence *in situ* hybridization data.  
 
-Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F., Wu, J. C., Platz, E. A novel risk prediction score for emergency department patients with pericardial effusion.
+Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F., Wu, J. C., Platz, E. *In submission*. A novel risk prediction score for emergency department patients with pericardial effusion.
 
 <sub>&dagger; Co-first authorship</sub>
 
