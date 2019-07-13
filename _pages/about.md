@@ -9,7 +9,7 @@ toc: false
 author_profile: true
 ---
 
-Statistical specializations include methods for missing data, single-cell genomics and survival analysis. Primarily interested in the development of statistical methods that advance the pipeline from hypothesis to therapeutics as a career. Advocate for software development, reproducible research, and diversity in STEM.
+Statistical specializations include methods for missing data, single-cell genomics and survival analysis. Primarily interested in the development of statistical methods that advance the pipeline from hypothesis to policy and decision-making. Advocate for software development, reproducible research, and diversity in STEM.
 
 ### interests
 - statistical methods for missing data
