@@ -42,7 +42,7 @@ TEACHING EXPERIENCE
 
 ---
 
-**Instructor**, February 2019 - present  
+**Instructor**, February 2019 - July 2019  
 *Summer Program in Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA*   
 Developed the curriculum for a 5-week summer research program in biostatistics and epidemiology  
 
