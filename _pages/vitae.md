@@ -63,7 +63,7 @@ PUBLICATIONS
 
 **Tracy, S.**, Dries, R., Yuan, G. C. (2019). RESCUE: imputing dropout events in single-cell RNA-sequencing data. *BMC Bioinformatics*, 20(388). doi: [10.1186/s12859-019-2977-0](https://doi.org/10.1186/s12859-019-2977-0).  
 
-Talbot, O., Ocampo, A., Tracy, S., Mosesso, K., Rahman, A., and Pagano, M. (2016). StatStart 2015. *ASA: The Statistics Teacher Network*, 87: 4-8.
+Talbot, O., Ocampo, A., **Tracy, S.**, Mosesso, K., Rahman, A., and Pagano, M. (2016). StatStart 2015. *ASA: The Statistics Teacher Network*, 87: 4-8.
 
 
 IN PROGRESS
