@@ -117,7 +117,7 @@ SELECTED INVOLVEMENT
 
 ---
 
-**Genentech Science Garage**, *Teaching Assistant*, October 2019 - present
+**Genentech Science Garage**, *Teaching Assistant*, October 2019 - present  
 **Harvard Graduate Student Council**, *Department Representative*, September 2015 - August 2017  
 **Roxbury Prep Mission Hill Tutoring**, *Co-director*, September 2016 - May 2017  
 **Roxbury Prep Mission Hill Tutoring**, *Coordinator*, September 2015 - May 2016  
