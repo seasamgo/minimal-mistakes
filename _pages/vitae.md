@@ -9,21 +9,14 @@ toc: false
 author_profile: true
 ---
 
-EDUCATION
-
----
-
-**Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2019   
-*Dissertation topic*: Contributions to missing data methods in single-cell genomics and survival analysis  
-*Committee*: Dr. Guo-Cheng Yuan, Dr. Franziska Michor, Dr. Giovanni Parmigiani  
-
-**M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2016  
-**B.S. Applied Mathematics**, *magna cum laude*, University of California San Diego, June 2014  
-
 
 PROFESSIONAL EXPERIENCE
 
 ---
+
+**Associate Statistical Scientist**, September 2019 - present   
+*Genentech, South San Francisco, CA*   
+Research and early development in oncology, biostatistics   
 
 **Research Consultant**, September 2017 - May 2019   
 *Biostatistics Student Consulting Center, Harvard T.H. Chan School of Public Health, Boston, MA*  
@@ -36,6 +29,18 @@ Developed, recruited for, and supervised a 5-week statistical computing and prog
 **Student Intern**, March 2013 - June 2013  
 *Clinical & Translational Research Institute, San Diego, CA*  
 Conducted a clinical data analysis examining the relationship between idiopathic low back pain and common backpack loads in children under the supervision of Dr. Ronghui Xu and James Proudfoot, M.S.  
+
+
+EDUCATION
+
+---
+
+**Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2019   
+*Dissertation topic*: Contributions to missing data methods in single-cell genomics and survival analysis  
+*Committee*: Dr. Guo-Cheng Yuan, Dr. Franziska Michor, Dr. Giovanni Parmigiani  
+
+**M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2016  
+**B.S. Applied Mathematics**, *magna cum laude*, University of California San Diego, June 2014  
 
 
 TEACHING EXPERIENCE
@@ -112,6 +117,7 @@ SELECTED INVOLVEMENT
 
 ---
 
+**Genentech Science Garage**, *Teaching Assistant*, October 2019 - present  
 **Harvard Graduate Student Council**, *Department Representative*, September 2015 - August 2017  
 **Roxbury Prep Mission Hill Tutoring**, *Co-director*, September 2016 - May 2017  
 **Roxbury Prep Mission Hill Tutoring**, *Coordinator*, September 2015 - May 2016  
