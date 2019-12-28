@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "DIY Platform Bed"
+title: "DIY Bed: Platform Style"
 excerpt: "...upgrade to a king mattress with a stab at redwood..."
 date: 2019-11-24
 author_profile: true
@@ -36,9 +36,9 @@ I selected the wood pieces from a local lumber yard, picking among the dry deck 
 
 
 <figure class="third">
-	<a href="/assets/images/2019-11-24-bed_project/redwood.jpg"><img src="/assets/images/2019-11-24-dresser_project/redwood.jpg"></a>
-	<a href="/assets/images/2019-11-24-bed_project/cutting.jpg"><img src="/assets/images/2019-11-24-dresser_project/cutting.jpg"></a>
-	<a href="/assets/images/2019-11-24-bed_project/arrangement.jpg"><img src="/assets/images/2019-11-24-dresser_project/arrangement.jpg"></a>
+	<a href="/assets/images/2019-11-24-bed_project/redwood.jpg"><img src="/assets/images/2019-11-24-bed_project/redwood.jpg"></a>
+	<a href="/assets/images/2019-11-24-bed_project/cutting.jpg"><img src="/assets/images/2019-11-24-bed_project/cutting.jpg"></a>
+	<a href="/assets/images/2019-11-24-bed_project/arrangement.jpg"><img src="/assets/images/2019-11-24-bed_project/arrangement.jpg"></a>
 	<figcaption>In progress photographs: the shipped redwood, trimmed planks, and loose arrangment of the final pieces.</figcaption>
 </figure>
 
@@ -60,8 +60,8 @@ The actual measurements would depend on the specific mattress, I trimmed each pi
 
 
 <figure class="half">
-        <a href="/assets/images/2019-11-24-bed_project/pocket_holes.jpg"><img src="/assets/images/2019-11-24-dresser_project/pocket_holes.jpg"></a>
-        <a href="/assets/images/2019-11-24-bed_project/completed_bed.jpg"><img src="/assets/images/2019-11-24-dresser_project/completed_bed.jpg"></a>
+        <a href="/assets/images/2019-11-24-bed_project/pocket_holes.jpg"><img src="/assets/images/2019-11-24-bed_project/pocket_holes.jpg"></a>
+        <a href="/assets/images/2019-11-24-bed_project/completed_bed.jpg"><img src="/assets/images/2019-11-24-bed_project/completed_bed.jpg"></a>
        <figcaption>Assembly photographs: setting the pocket holes with the jig and the final assembly.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ The only real trick at this point was setting the 2x4 support beams to the corre
 
 
 <figure>
-        <a href="/assets/images/2019-11-24-bed_project/finished.jpg"><img src="/assets/images/2019-11-24-dresser_project/finished.jpg"></a>
+        <a href="/assets/images/2019-11-24-bed_project/finished.jpg"><img src="/assets/images/2019-11-24-bed_project/finished.jpg"></a>
       <figcaption>The finished bed with mattress.</figcaption>
 </figure>
 
