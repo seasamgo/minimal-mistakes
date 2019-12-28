@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "DIY Platform Bed"
-excerpt: "..."
+excerpt: "...upgrade to a king mattress with a stab at redwood..."
 date: 2019-11-24
 author_profile: true
 ---
@@ -11,7 +11,7 @@ Graduation and a new job brought me to a new apartment in San Francisco.
 I gifted my old bed to a colleague as a graduate student care package with the intention of starting completely fresh. This last one was a queen-size platform bed I'd built out of pine and fir and I wanted to maintain the general aesthetic but upgrade to a king mattress with a stab at redwood. I modified the plans for a full platform bed [here](https://www.shanty-2-chic.com/wp-content/uploads/2014/08/DIY-Platform-Bed.pdf) to fit a king-size bed, reduce mattress slippage and fit my personal preferences. The final product was even better than I'd imagined and incredibly comfortable, with the soft redwood providing some extra spring and sound dampening qualities.
 
 
-**Supplies**
+**Supplies** 
 
 - Wood
   + 2x8x8 (4)  
@@ -43,6 +43,9 @@ I selected the wood pieces from a local lumber yard, picking among the dry deck 
 </figure>
 
 
+**Assembly** 
+
+
 The actual measurements would depend on the specific mattress, I trimmed each piece to the following after sizing my king:  
 
 - Width  
@@ -64,7 +67,7 @@ The actual measurements would depend on the specific mattress, I trimmed each pi
 
 The pocket-hole setup works by setting the stopper length on the jig for 2 inch boards (actually about 1 1/2 inches), clamping where desired and then pre-drilling discrete holes. I spread these at equal intervals of 7-10 inches across the width and length of the base pieces to fit into the top platform pieces. I also added 2-4 equally spaced pocket holes into each of the ends. The platform was then fit together first, upside down on the floor, followed by the base and the base finally screwed into the platform pieces.   
 
-The only real trick at this point was setting the 2x4 support beams to the correct height. I chose to fix them with a 1" inset, which resulted in a 1/4" inset of the 1x4" slats. This helped reduce slippage of the slats and any raised snags for the mattress that might be induced over time by warping. These were fixed as well by pocket-hole screws, although 2 1/2" decking screws would be fine as well. The slats could also be fixed to the support beams via pre-drilled holes and decking screws, but I preferred to leave them free.   
+The only real trick at this point was setting the 2x4 support beams to the correct height. I chose to fix them with a 1" inset, which resulted in a 1/4" inset of the 1x4" slats. This helped reduce slippage of the slats and any raised snags for the mattress that might be induced over time by warping. These were also fastened by pocket-hole screws, although 2 1/2" decking screws would be fine as well. The slats may be fixed to the support beams via pre-drilled holes and decking screws, but I preferred to leave them free.   
 
 
 <figure>

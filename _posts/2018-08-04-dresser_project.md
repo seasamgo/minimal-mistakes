@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "DIY Furniture Renovation: Wooden Dresser"
-excerpt: "...particularly liked the idea of Danish oil for its penetration and lack of film, which would..."
+excerpt: "...liked the idea of Danish oil for its penetration and lack of film, which would..."
 date: 2018-08-04
 author_profile: true
 ---
