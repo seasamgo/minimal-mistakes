@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "DIY Platform Bed
+title: "DIY Platform Bed"
 excerpt: "..."
 date: 2019-11-24
 author_profile: true
