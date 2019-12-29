@@ -80,7 +80,7 @@ Chen, T.&dagger;, **Tracy, S.**&dagger;, Uno, H. *In submission*. OptBand: optim
 **Tracy, S.**, Yuan, G. C. *In revision*. SERA: inferring spatial patterns of gene expression through integrating single-cell RNA-seq
 and sequential fluorescence *in situ* hybridization data.  
 
-Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F., Wu, J. C., Platz, E. *In revision*. A novel risk prediction score for emergency department patients with pericardial effusion.
+Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F., Wu, J. C., Platz, E. *In submission*. A novel risk prediction score for emergency department patients with pericardial effusion.
 
 <sub>&dagger; Co-first authorship</sub>
 
