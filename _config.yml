@@ -20,7 +20,7 @@ teaser                   :
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : "master"
+  branch                 : # "master"
   commitMessage          : # "New comment."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
@@ -47,9 +47,9 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  enabled		 : true
-  siteKey                : "6Le74F4UAAAAAP8JeYatYegF-L7eZPyAKe28Ddwr"
-  secret                 : "gmFUN3N2PaF9xyxmu4qNIxB12k/XcwKFdAdpsy69YHT3rT9akFQCo5hHA2ZcEIS0GJd93x+ionHGFJhLE2LjBkcn8ippKJguLcZUEhB8xkimnIOkDBvVMmJSl+qq/DoY+xfB+5E+DQbCIx0fNsg+vCaHbk53dFiPYTW6wPi9De0="
+  enabled		 : false
+  siteKey                : # "6Le74F4UAAAAAP8JeYatYegF-L7eZPyAKe28Ddwr"
+  secret                 : # "gmFUN3N2PaF9xyxmu4qNIxB12k/XcwKFdAdpsy69YHT3rT9akFQCo5hHA2ZcEIS0GJd93x+ionHGFJhLE2LjBkcn8ippKJguLcZUEhB8xkimnIOkDBvVMmJSl+qq/DoY+xfB+5E+DQbCIx0fNsg+vCaHbk53dFiPYTW6wPi9De0="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
