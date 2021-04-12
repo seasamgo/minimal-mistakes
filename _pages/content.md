@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
-permalink: /blog/
+permalink: /content/
 layout: categories
 author_profile: true
 ---
