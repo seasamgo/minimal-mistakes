@@ -2,8 +2,8 @@
 main:
   - title: "about"
     url: /about/
-  - title: "blog"
-    url: /blog/
+  - title: "portfolio"
+    url: /portfolio/
   - title: "vitae"
     url: /vitae/ # https://seasamgo.github.io/assets/files/cv.pdf
   # - title: "Sample Posts"
