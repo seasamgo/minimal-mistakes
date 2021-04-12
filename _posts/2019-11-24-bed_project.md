@@ -4,7 +4,9 @@ title: "Platform Style Bed"
 excerpt: "...upgrade to a king mattress with a stab at redwood..."
 date: 2019-11-24
 author_profile: true
-category: DIY
+category: Home improvement
+header: 
+  teaser: /assets/images/2019-11-24-bed_project/finished.jpg
 ---
 
 
