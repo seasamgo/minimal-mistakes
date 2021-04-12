@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "DIY Bed: Platform Style"
+title: "Platform Style Bed"
 excerpt: "...upgrade to a king mattress with a stab at redwood..."
 date: 2019-11-24
 author_profile: true
+category: DIY
 ---
 
 
