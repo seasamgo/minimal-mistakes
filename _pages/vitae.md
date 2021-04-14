@@ -66,22 +66,22 @@ PUBLICATIONS
 
 ---
 
+Chen, T.&dagger;, **Tracy, S.**&dagger;, Uno, H. (2021). OptBand: optimization-based confidence bands for functions to characterize time-to-event distributions. *Lifetime Data Analysis*. doi: [10.1007/s10985-021-09522-8](https://doi.org/10.1007/s10985-021-09522-8).  
+
 Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F., Wu, J. C., Platz, E. (2020). A novel risk prediction score for emergency department patients with pericardial effusion. *European Heart Journal: Acute Cardiovascular Care*. doi: [10.1093/ehjacc/zuaa023](https://doi.org/10.1093/ehjacc/zuaa023).  
 
 **Tracy, S.**, Dries, R., Yuan, G. C. (2019). RESCUE: imputing dropout events in single-cell RNA-sequencing data. *BMC Bioinformatics*, 20(388). doi: [10.1186/s12859-019-2977-0](https://doi.org/10.1186/s12859-019-2977-0).  
 
 Talbot, O., Ocampo, A., **Tracy, S.**, Mosesso, K., Rahman, A., and Pagano, M. (2016). StatStart 2015. *ASA: The Statistics Teacher Network*, 87: 4-8.
 
+<sub>&dagger; Co-first authorship</sub>
+
 
 IN PROGRESS
 
 ---
 
-Chen, T.&dagger;, **Tracy, S.**&dagger;, Uno, H. *In submission*. OptBand: optimal confidence bands for functions to characterize time-to-event distributions.
- 
 **Tracy, S.**, Yuan, G. C. *In revision*. SERA: inferring spatial patterns of gene expression through integrating single-cell RNA-seq and sequential fluorescence *in situ* hybridization data.  
-
-<sub>&dagger; Co-first authorship</sub>
 
 
 SELECTED PRESENTATIONS
