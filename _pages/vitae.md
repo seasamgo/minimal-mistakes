@@ -16,11 +16,11 @@ PROFESSIONAL EXPERIENCE
 
 **Statistical Scientist**, September 2019 - present   
 *Genentech, South San Francisco, CA*   
-Research and early development in oncology, biostatistics; biostatistician for multiple early-stage molecule developments in heme; team-lead for multiple myeloma as a therapeutic area; development of digital pathology features, ctDNA and other biomarkers as prognostic tools for aggressive lymphomas with several first co-author abstracts; Showcase Lead for the R Community in 2020; new-hire mentor  
+Research and early development in oncology, biostatistics  
 
 **Research Consultant**, September 2017 - May 2019   
 *Biostatistics Student Consulting Center, Harvard T.H. Chan School of Public Health, Boston, MA*  
-Advised students and postdocs on their statistical analyses across a variety of research projects and questions, including: exposure misclassification, cluster correlated data, wound healing assays, and gene expression data  
+Advised students and postdocs on their statistical analyses across a variety of research projects and question  
 
 **Co-founder and Instructor**, January 2015 - September 2018  
 *StatStart: a High School Summer Program in Biostatistics, Boston, MA*  
@@ -28,7 +28,7 @@ Developed, recruited for, and supervised a 5-week statistical computing and prog
 
 **Student Intern**, March 2013 - June 2013  
 *Clinical & Translational Research Institute, San Diego, CA*  
-Conducted a clinical data analysis examining the relationship between idiopathic low back pain and common backpack loads in children under the supervision of Dr. Ronghui Xu and James Proudfoot, M.S.  
+Investigated the relationship between idiopathic low back pain and common backpack loads in children under the supervision of Dr. Ronghui Xu and James Proudfoot, M.S.  
 
 
 EDUCATION
@@ -37,7 +37,7 @@ EDUCATION
 
 **Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2019   
 *Dissertation topic*: Contributions to missing data methods in single-cell genomics and survival analysis  
-*Committee*: Dr. Guo-Cheng Yuan, Dr. Franziska Michor, Dr. Giovanni Parmigiani  
+*Committee*: Drs. Guo-Cheng Yuan, Franziska Michor, Giovanni Parmigiani  
 
 **M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2016  
 **B.S. Applied Mathematics**, *magna cum laude*, University of California San Diego, June 2014  
@@ -62,7 +62,7 @@ Developed the curriculum for a 5-week summer research program in biostatistics a
 MATH 10ABC Calculus Series  
 
 
-PUBLICATIONS
+SELECTED PUBLICATIONS
 
 ---
 
@@ -77,16 +77,10 @@ Talbot, O., Ocampo, A., **Tracy, S.**, Mosesso, K., Rahman, A., and Pagano, M. (
 <sub>&dagger; Co-first authorship</sub>
 
 
-IN PROGRESS
-
----
-
-**Tracy, S.**, Yuan, G. C. *In revision*. SERA: inferring spatial patterns of gene expression through integrating single-cell RNA-seq and sequential fluorescence *in situ* hybridization data.  
-
-
 SELECTED PRESENTATIONS
 
 ---
+Automated baseline fluorodeoxyglucose-positron emission tomography imaging and high BCL2 expression provide orthogonal prognostic value in predicting high-risk de novo diffuse large B-cell lymphoma patients. Poster presentation at the *62nd ASH Annual Meeting and Exposition*, San Diego Convention Center, San Diego, CA, December 5, 2020.  
 
 Team Micro: a biofeedback device using LiDAR and EEG to improve localization and orientation in microgravity environments. 1st place project demo at the *Quantly 2018 Astropeneurship, Space Medicine and Dataverse Hackathon*, Harvard University, Boston, MA, June 9, 2018.
 
