@@ -70,7 +70,7 @@ Duanmu, Y., Choi, D., **Tracy, S.**, Harris O. M., Shleifer, J. I., Dadabhoy, F.
 
 Talbot, O., Ocampo, A., **Tracy, S.**, Mosesso, K., Rahman, A., and Pagano, M. (2016). StatStart 2015. *ASA: The Statistics Teacher Network*, 87: 4-8.
 
-<sub>&dagger; Co-first authorship</sub>
+<sub>&dagger; Equal contribution</sub>
 
 
 SELECTED PRESENTATIONS
