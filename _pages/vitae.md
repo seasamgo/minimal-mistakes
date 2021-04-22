@@ -21,9 +21,6 @@ Research and early development in oncology, biostatistics
 **Research Consultant**, 2017 - 2019   
 *Biostatistics Student Consulting Center, Harvard T.H. Chan School of Public Health, Boston, MA*  
 
-**Co-founder and Instructor**, 2015 - 2018  
-*StatStart: a High School Summer Program in Biostatistics, Boston, MA*  
-
 **Student Intern**, 2013  
 *Clinical & Translational Research Institute, San Diego, CA*  
 
@@ -33,7 +30,7 @@ EDUCATION
 ---
 
 **Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2019   
-*Dissertation topic*: Contributions to missing data methods in single-cell genomics and survival analysis  
+*Dissertation topic*: Contributions to missing data methods in single-cell genomics and survival analysis   
 *Committee*: Drs. Guo-Cheng Yuan, Franziska Michor, Giovanni Parmigiani  
 
 **M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2016  
@@ -52,6 +49,9 @@ TEACHING EXPERIENCE
 * BST 210 Applied Regression Analysis
 * BST 226 Applied Longitudinal Analysis   
 * ID 201 Core Principles of Biostatistics and Epidemiology for Public Health Practice  
+
+**Co-founder and Instructor**, 2015 - 2018
+*StatStart: a High School Summer Program in Biostatistics, Boston, MA*  
 
 **Teaching Assistant**, 2013 - 2014   
 *University of California San Diego, San Diego, CA*   

@@ -4,7 +4,7 @@ title: "Wooden Dresser Renovation"
 excerpt: "...liked the idea of Danish oil for its penetration and lack of film, which would..."
 date: 2018-08-04
 author_profile: true
-category: Home Improvement
+category: Home
 header:
   teaser: /assets/images/2018-08-04-dresser_project/stained.jpg
 ---
