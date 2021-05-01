@@ -14,7 +14,8 @@ PROFESSIONAL EXPERIENCE
 
 ---
 
-**Statistical Scientist**, 2019 - present   
+**Senior Statistical Scientist**, May 2021 - present
+**Statistical Scientist**, 2019 - Apr 2021   
 *Genentech, South San Francisco, CA*   
 Research and early development in oncology, biostatistics  
 
@@ -110,7 +111,7 @@ SELECTED INVOLVEMENT
 **Roxbury Prep Mission Hill Tutoring**, *Co-director*, September 2016 - May 2017  
 **Roxbury Prep Mission Hill Tutoring**, *Coordinator*, September 2015 - May 2016  
 **UC San Diego Student Conduct Code Committee**, *Student Representative*, January 2014 - June 2014  
+**Global Water Brigades**, *Honduras Brigade Member*, January 2014 - March 2014   
 **UC San Diego Educational Studies Department**, *Academic Liason*, January 2013 - March 2013  
-**Global Water Brigades**, *Honduras Brigade Member*, January 2014 - March 2014  
 
 
