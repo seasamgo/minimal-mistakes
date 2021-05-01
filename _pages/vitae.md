@@ -36,14 +36,13 @@ EDUCATION
 
 **M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, 2016  
 **B.S. Applied Mathematics**, *magna cum laude*, University of California San Diego, 2014  
-**A.S. Mathematics, Natural Science**, *with honors*, Sierra College, 2012
 
 
 TEACHING EXPERIENCE
 
 ---
 
-**Instructor**, 2019 - 2019  
+**Instructor**, 2019  
 *Summer Program in Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA*   
 
 **Teaching Assistant**, 2016 - 2018  
