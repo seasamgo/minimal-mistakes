@@ -14,8 +14,8 @@ PROFESSIONAL EXPERIENCE
 
 ---
 
-**Senior Statistical Scientist**, May 2021 - present
-**Statistical Scientist**, 2019 - Apr 2021   
+**Senior Statistical Scientist**, 2021 - present   
+**Statistical Scientist**, 2019 - 2021   
 *Genentech, South San Francisco, CA*   
 Research and early development in oncology, biostatistics  
 
@@ -30,12 +30,13 @@ EDUCATION
 
 ---
 
-**Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2019   
+**Ph.D. Biostatistics**, Harvard Graduate School of Arts and Sciences, 2019   
 *Dissertation topic*: Contributions to missing data methods in single-cell genomics and survival analysis   
 *Committee*: Drs. Guo-Cheng Yuan, Franziska Michor, Giovanni Parmigiani  
 
-**M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, May 2016  
-**B.S. Applied Mathematics**, *magna cum laude*, University of California San Diego, June 2014  
+**M.A. Biostatistics**, Harvard Graduate School of Arts and Sciences, 2016  
+**B.S. Applied Mathematics**, *magna cum laude*, University of California San Diego, 2014  
+**A.S. Mathematics, Natural Science**, *with honors*, Sierra College, 2012
 
 
 TEACHING EXPERIENCE
@@ -105,13 +106,13 @@ SELECTED INVOLVEMENT
 
 ---
 
-**San Francisco - Marin Food Bank**, *Volunteer*, February 2020 - present  
-**Genentech Science Garage**, *Teaching Assistant*, October 2019 - February 2020 (COVID-19)  
-**Harvard Graduate Student Council**, *Department Representative*, September 2015 - August 2017  
-**Roxbury Prep Mission Hill Tutoring**, *Co-director*, September 2016 - May 2017  
-**Roxbury Prep Mission Hill Tutoring**, *Coordinator*, September 2015 - May 2016  
-**UC San Diego Student Conduct Code Committee**, *Student Representative*, January 2014 - June 2014  
-**Global Water Brigades**, *Honduras Brigade Member*, January 2014 - March 2014   
-**UC San Diego Educational Studies Department**, *Academic Liason*, January 2013 - March 2013  
+**San Francisco - Marin Food Bank**, *Volunteer*, 2020 - present  
+**Genentech Science Garage**, *Teaching Assistant*, 2019 - 2020  
+**Harvard Graduate Student Council**, *Department Representative*, 2015 - 2017  
+**Roxbury Prep Mission Hill Tutoring**, *Co-director*, 2016 - 2017  
+**Roxbury Prep Mission Hill Tutoring**, *Coordinator*, 2015 - 2016  
+**UC San Diego Student Conduct Code Committee**, *Student Representative*, 2014  
+**Global Water Brigades**, *Honduras Brigade Member*, 2014   
+**UC San Diego Educational Studies Department**, *Academic Liason*, 2013  
 
 
