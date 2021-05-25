@@ -47,11 +47,11 @@ TEACHING EXPERIENCE
 
 **Teaching Assistant**, 2016 - 2018  
 *Harvard T.H. Chan School of Public Health, Boston, MA*  
-* BST 210 Applied Regression Analysis
+* BST 210 Applied Regression Analysis  
 * BST 226 Applied Longitudinal Analysis   
 * ID 201 Core Principles of Biostatistics and Epidemiology for Public Health Practice  
 
-**Co-founder and Instructor**, 2015 - 2018
+**Co-founder and Instructor**, 2015 - 2018  
 *StatStart: a High School Summer Program in Biostatistics, Boston, MA*  
 
 **Teaching Assistant**, 2013 - 2014   
@@ -105,13 +105,10 @@ SELECTED INVOLVEMENT
 
 ---
 
-**San Francisco - Marin Food Bank**, *Volunteer*, 2020 - present  
-**Genentech Science Garage**, *Teaching Assistant*, 2019 - 2020  
-**Harvard Graduate Student Council**, *Department Representative*, 2015 - 2017  
-**Roxbury Prep Mission Hill Tutoring**, *Co-director*, 2016 - 2017  
-**Roxbury Prep Mission Hill Tutoring**, *Coordinator*, 2015 - 2016  
-**UC San Diego Student Conduct Code Committee**, *Student Representative*, 2014  
-**Global Water Brigades**, *Honduras Brigade Member*, 2014   
-**UC San Diego Educational Studies Department**, *Academic Liason*, 2013  
+**San Francisco - Marin Food Bank**, 2020 - present  
+**Genentech Science Garage**, 2019 - 2020  
+**Roxbury Prep Mission Hill Tutoring**, 2015 - 2017  
+**Global Water Brigades** *Honduras*, 2014   
+**UC San Diego Educational Studies Department**, 2013  
 
 
