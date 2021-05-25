@@ -92,13 +92,13 @@ SOFTWARE
 *Some experience*: Python, SAS, C++  
 
 **R package** `optband`, CRAN and GitHub  
-Co-creator and maintainer; minimal-area simultaneous confidence bands for time-to-event data  
+Minimal-area confidence bands for time-to-event data  
 
 **R package** `rescue`, CRAN and GitHub  
-Co-creator and maintainer; methods for imputing missing expression due to dropout in single-cell RNA-sequencing data  
+Imputing dropout values in single-cell RNA-sequencing data  
 
 **R package** `sera`, GitHub  
-Creator and maintainer; methods to integrate seqFISH and scRNA-seq data for spatial inference
+Integrating seqFISH and scRNA-seq data for spatial inference
 
 
 SELECTED INVOLVEMENT
